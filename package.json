@@ -1,0 +1,26 @@
+{
+  "name": "odintddpractice",
+  "version": "1.0.0",
+  "description": "jest tests",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eacorder/odinTddPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eacorder/odinTddPractice/issues"
+  },
+  "homepage": "https://github.com/eacorder/odinTddPractice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
